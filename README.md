@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pshrimal000
-- 👀 I’m interested in Web development and machine learning
-- 🌱 I’m currently learning machine learning and deep concepts of react and nodejs
-- 💞️ I’m looking for pre placement opportunities at the moment
+- 👋 Hi, I’m Ashutosh Shrimal
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently working as software engineer at scaler academy
 - 📫 you can ping me on @pshrimal000@gmail.com
 
 <!---
